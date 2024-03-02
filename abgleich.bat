@@ -1,4 +1,7 @@
 @echo off
+REM ### UPDATE SCRIPT ###
+.\git\bin\git.exe pull
+
 REM ### DB Code ###
 
 REM "requests" package needed
